@@ -2,24 +2,7 @@
   "input_datatypes": [ ],
   "input_namespaces": [ ],
   "output_namespace": "",
-  "input_groups": [
-    {
-      "name": "Instances-ibm_compute_vm_instance.vm1",
-      "label": "Instances - ibm_compute_vm_instance.vm1"
-    },
-    {
-      "name": "Other",
-      "label": "Other"
-    },
-    {
-      "name": "instances",
-      "label": "Instances"
-    },
-    {
-      "name": "ibm_storage_file_storage",
-      "label": "ibm_storage_file Storage"
-    }
-  ],
+  "input_groups": [ ],
   "output_groups": [ ],
   "template_input_params": [ 
     {

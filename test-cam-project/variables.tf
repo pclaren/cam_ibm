@@ -3,6 +3,8 @@
 ##      Created 07/05/2020 by admin. for test-cam-project
 ##
 #####################################################################
+variable "ssh_key_label" {}
+variable "hostname" {}
 
 #variable "vm1_domain" {
 #  type = "string"
